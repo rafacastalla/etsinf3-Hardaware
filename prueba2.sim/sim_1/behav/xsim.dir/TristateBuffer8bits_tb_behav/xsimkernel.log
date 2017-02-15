@@ -1,0 +1,4 @@
+Running: xsim.dir/TristateBuffer8bits_tb_behav/xsimk.exe -simmode gui -wdb TristateBuffer8bits_tb_behav.wdb -simrunnum 0 -socket 2287
+Design successfully loaded
+Design Loading Memory Usage: 6900 KB (Peak: 6900 KB)
+Design Loading CPU Usage: 15 ms
